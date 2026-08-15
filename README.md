@@ -1,4 +1,4 @@
-# Finance RAG – HCLTech Financial Report Analysis Assistant
+# FinSight – HCLTech Financial Intelligence Assistant
 
 ## Project Overview
 

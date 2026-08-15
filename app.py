@@ -9,8 +9,8 @@ from ingest import DATA_DIR, collection_exists, ingest_documents
 from rag import REFUSAL_TEXT, answer_question
 
 
-APP_TITLE = "Finance RAG – HCLTech Financial Report Assistant"
-APP_SUBTITLE = "Ask grounded questions about indexed HCLTech quarterly financial reports and review source-backed answers."
+APP_TITLE = "FinSight"
+APP_SUBTITLE = "HCLTech Financial Intelligence Assistant"
 
 REPORTS = [
     {"name": "HCLTech Q1 FY26", "pages": 29},
@@ -162,8 +162,8 @@ def render_header() -> None:
 
 def render_sidebar() -> None:
     with st.sidebar:
-        st.markdown("### Finance RAG")
-        st.caption("HCLTech Financial Report Assistant")
+        st.markdown("### FinSight")
+        st.caption("HCLTech Financial Intelligence Assistant")
         st.markdown("**Tech stack**")
         st.write("Python | Streamlit | Gemini | ChromaDB | PyPDF")
         st.markdown("**Indexed reports**")
