@@ -57,15 +57,15 @@ HCLTech-Finance-RAG/
 │   ├── HCLTech_Q2_FY26.pdf
 │   ├── HCLTech_Q3_FY26.pdf
 │   └── HCLTech_Q4_FY26.pdf
-├── chroma_db/
 ├── ingest.py
 ├── rag.py
 ├── app.py
 ├── requirements.txt
 ├── README.md
-├── .gitignore
-└── .env
+└── .gitignore
 ```
+
+> Note: `.env`, `.venv/`, `chroma_db/`, and `__pycache__/` are intentionally excluded from version control.
 
 ## Setup Instructions
 
