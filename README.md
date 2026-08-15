@@ -21,12 +21,16 @@ The application reads the PDFs dynamically from the local `data/` folder:
 - `HCLTech_Q3_FY26.pdf`
 - `HCLTech_Q4_FY26.pdf`
 
-Official source links were not provided in the workspace, so add them here if needed for submission:
+## Official HCLTech Financial Reports
 
-- Q1 FY26: [add official HCLTech link]
-- Q2 FY26: [add official HCLTech link]
-- Q3 FY26: [add official HCLTech link]
-- Q4 FY26: [add official HCLTech link]
+The project uses HCLTech's official quarterly Investor Releases for FY26:
+
+- [Q1 FY26 – Investor Release](https://www.hcltech.com/sites/default/files/document/open/quarter-results/2025-07/hcltech-q1-fy26-investor-release.pdf)
+- [Q2 FY26 – Investor Release](https://www.hcltech.com/sites/default/files/document/open/quarter-results/2025-11/HCLTech_Q2-FY26-Investor.pdf)
+- [Q3 FY26 – Investor Release](https://www.hcltech.com/sites/default/files/document/open/quarter-results/2026-01/HCLTech_Q3_FY26_Investor_Release.pdf)
+- [Q4 FY26 – Investor Release](https://www.hcltech.com/investor-relations/quarter-results)
+
+Source: [HCLTech Investor Relations – Quarter Results](https://www.hcltech.com/investor-relations/quarter-results)
 
 ## Architecture / Workflow
 
